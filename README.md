@@ -1,2 +1,2 @@
-# Travellingsp
-This is travelling salesperson program in python.
+# obst
+This is optimal binary search tree program in python.
