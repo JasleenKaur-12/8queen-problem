@@ -1,2 +1,2 @@
-# obst
-This is optimal binary search tree program in python.
+# 8queen
+This is 8queen program in python.
